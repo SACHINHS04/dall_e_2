@@ -44,7 +44,7 @@ import streamlit as st
 import requests
 from PIL import Image
 
-dalle_api_key = 'PUT_YOUR_API_KEY_HERE'
+dalle_api_key = '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'
 
 def generate_image(prompt):
     # Use DALL-E API to generate image
